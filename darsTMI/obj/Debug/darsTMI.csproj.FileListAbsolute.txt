@@ -1,0 +1,8 @@
+D:\VisualC++\darsTMI\darsTMI\bin\Debug\darsTMI.exe.config
+D:\VisualC++\darsTMI\darsTMI\bin\Debug\darsTMI.exe
+D:\VisualC++\darsTMI\darsTMI\bin\Debug\darsTMI.pdb
+D:\VisualC++\darsTMI\darsTMI\obj\Debug\darsTMI.csproj.AssemblyReference.cache
+D:\VisualC++\darsTMI\darsTMI\obj\Debug\darsTMI.csproj.SuggestedBindingRedirects.cache
+D:\VisualC++\darsTMI\darsTMI\obj\Debug\darsTMI.csproj.CoreCompileInputs.cache
+D:\VisualC++\darsTMI\darsTMI\obj\Debug\darsTMI.exe
+D:\VisualC++\darsTMI\darsTMI\obj\Debug\darsTMI.pdb
