@@ -17,6 +17,9 @@ namespace darsTMI
             int natija = ekub(ab, cd);
 
             Console.WriteLine("ekub=" + natija);
+
+            Console.WriteLine("ekuk=" + ekuk(a,b));
+
             Console.ReadKey();
         }
 
@@ -32,7 +35,18 @@ namespace darsTMI
             }
             return a;
         }
-
+        public static int ekuk(int a, int b)
+        {
+            int s = a * b;
+            while (a != b)
+            {
+                if (a > b)
+                    a = a - b;
+                else
+                    b -= a;
+            }
+            return s/a;
+        }
 
     }
 }
